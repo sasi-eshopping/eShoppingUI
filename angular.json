@@ -24,9 +24,23 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
-            ],
-            "scripts": []
+              "src/styles.css",
+              "src/css/font-awesome.css",
+              "src/css/bootstrap.css",
+              "src/css/skdslider.css",
+              "src/css/style.css"
+             
+               ],
+            "scripts": [
+              "src/js/responsiveslides.min.js",
+              "src/js/skdslider.min.js",
+              "src/js/jquery-1.11.1.min.js",
+              "src/js/bootstrap.min.js",
+              "src/js/easing.js",
+              "src/js/minicart.min.js",
+              "src/js/move-top.js"
+              
+            ]
           },
           "configurations": {
             "production": {
