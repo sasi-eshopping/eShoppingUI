@@ -1,6 +1,6 @@
 import { Component, OnInit} from '@angular/core';
 import { FormBuilder, NgForm } from '@angular/forms';
-import * as $ from 'jquery';
+
 
 import { Router } from '@angular/router';
 
